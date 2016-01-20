@@ -2,7 +2,7 @@
 /*
 Plugin Name: ReadernautGoals
 Plugin URI: http://github.com/nitinthewiz/readernautgoals
-Description: Show the world your Readernaut goals.
+Description: Show your Readernaut goals on your WordPress site!
 Author: Nitin Khanna
 Version: 0.1
 Author URI: http://nitinkhanna.com/
