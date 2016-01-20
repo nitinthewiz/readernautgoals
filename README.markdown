@@ -19,7 +19,7 @@ return="bookname" or "bookgoal"
 You can see this shortcode working on [my /now page here][mnp]
 
 #### To find your API key
-As described [here][https://gist.github.com/nitinthewiz/822b4af64130b397121c] -
+As described [here](https://gist.github.com/nitinthewiz/822b4af64130b397121c) -
 Currently you can find your API_KEY by viewing source on any page and searching for "api_key" in the output.
 
 #### To find your goal ID
@@ -33,14 +33,14 @@ My goal ID = 171349
 
 
 #### This plugin is heavily influenced by - 
-0. [Readernaut's current API][https://gist.github.com/nitinthewiz/822b4af64130b397121c]
-1. [wp-Readernaut plugin][https://github.com/trey/wp-readernaut]
-2. [Adam Kirkwood's Readernaut-Apparatus][https://github.com/adamkirkwood/readernaut-apparatus]
-3. [Shortcode API][https://codex.wordpress.org/Shortcode_API]
-4. [Shortcodes with parameters][https://developer.wordpress.org/plugins/shortcodes/shortcodes-with-parameters/]
+0. [Readernaut's current API](https://gist.github.com/nitinthewiz/822b4af64130b397121c)
+1. [wp-Readernaut plugin](https://github.com/trey/wp-readernaut)
+2. [Adam Kirkwood's Readernaut-Apparatus](https://github.com/adamkirkwood/readernaut-apparatus)
+3. [Shortcode API](https://codex.wordpress.org/Shortcode_API)
+4. [Shortcodes with parameters](https://developer.wordpress.org/plugins/shortcodes/shortcodes-with-parameters/)
 
 #### Special thanks to -
-1. [JSON parser][http://json.parser.online.fr/]
+1. [JSON parser](http://json.parser.online.fr/)
 
 [rn]: http://readernaut.com
 [mnp]: http://www.nitinkhanna.com/now/
