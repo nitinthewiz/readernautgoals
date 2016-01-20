@@ -9,7 +9,7 @@ api_key="your api_key"
 goalid="the goal ID"
 
 #### Extra arguments -
-return="bookname" or "bookgoal"
+return="bookname" or "bookgoal" (bookgoal is the default argument)
 
 ### Examples - 
 [readernautdata username="nitinkhanna" api_key="abcdefghijklmnop" goalid="171349" return="bookname"] returns War and Peace
