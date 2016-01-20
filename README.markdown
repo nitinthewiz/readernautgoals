@@ -1,6 +1,6 @@
-# ReadernautGoals shortcode
+# ReadernautGoals shortcode plugin
 
-Display your [Readernaut][rn] book progress in a post or page using this shortcode system.
+Display your [Readernaut][rn] book progress in a post or page using this shortcode system. To begin, first upload this plugin to WordPress and enable it. Once it is enabled, you can add the readernaut shortcode to any post or page on your blog.
 
 ### Shortcode details -
 #### Essential arguments - 
@@ -12,9 +12,9 @@ goalid="the goal ID"
 return="bookname" or "bookgoal" (bookgoal is the default argument)
 
 ### Examples - 
-[readernautdata username="nitinkhanna" api_key="abcdefghijklmnop" goalid="171349" return="bookname"] returns War and Peace
+[readernaut username="nitinkhanna" api_key="abcdefghijklmnop" goalid="171349" return="bookname"] returns War and Peace
 
-[readernautdata username="nitinkhanna" api_key="abcdefghijklmnop" goalid="171349" return="bookgoal"] returns your position in the book in the format - 5992/28927
+[readernaut username="nitinkhanna" api_key="abcdefghijklmnop" goalid="171349" return="bookgoal"] returns your position in the book in the format - 5992/28927
 
 You can see this shortcode working on [my /now page here][mnp]
 
