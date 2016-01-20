@@ -18,7 +18,8 @@ return="bookname" or "bookgoal"
 
 You can see this shortcode working on [my /now page here][mnp]
 
-#### To find your API key (as described [here][https://gist.github.com/nitinthewiz/822b4af64130b397121c])
+#### To find your API key
+As described [here][https://gist.github.com/nitinthewiz/822b4af64130b397121c] -
 Currently you can find your API_KEY by viewing source on any page and searching for "api_key" in the output.
 
 #### To find your goal ID
